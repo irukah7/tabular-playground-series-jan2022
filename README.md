@@ -27,4 +27,8 @@ KaggleMartとKaggleRamaのどちらが公式Kaggleアウトレットになるべ
     * Norway     4404706(531.2万人)
     * Sweden     3105725(1018万人)
     * 人口の多いスウェーデンが総売上個数が多いと予想したがノルウェイが一番売上個数が多かった
-* x軸を年度、y軸を総売上個数でmatplotlibにプロットする
+
+# 2022/01/26
+* ベース(https://www.kaggle.com/hikarumoriya/tabular-playground-eda-jpn)
+* 各アイテムの売れ行きを予測するために必要なこと
+    * 回帰予測で各アイテムの回帰直線をプロットできれば予測結果が出そう
